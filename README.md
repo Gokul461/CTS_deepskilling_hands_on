@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3bda3ef2-7c83-49ff-8fbe-fafc6f376e8b)﻿# CTS_deepskilling_week1
+# CTS_deepskilling_week1
 ### Week-1 [Mandatory hands-on]
 ### Ex 1:	Design principles & Patterns	-	Design Patterns and Principles - Exercise 1: Implementing the Singleton Pattern
 ### Ex 2:	Design principles & Patterns	-	Design Patterns and Principles - Exercise 2: Implementing the Factory Method Pattern
