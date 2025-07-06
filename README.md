@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/19ddbc9e-1627-47b0-adc0-1605ca96df5a)# CTS_deepskilling_week1
+# CTS_deepskilling_week1
 
 ### Week-1 [Mandatory hands-on]
 ### Ex 1:	Design principles & Patterns	-	Design Patterns and Principles - Exercise 1: Implementing the Singleton Pattern
