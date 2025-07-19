@@ -31,3 +31,6 @@
 ### Ex 5:	Spring REST using Spring Boot 3	- spring-rest-handson -	REST - Get country based on country code
 ### Ex 6:	Spring REST using Spring Boot 3 - JWT-handson - Create authentication service that returns JWT
 #
+### Week-5 [Mandatory hands-on]
+### Ex 1:	Microservices with Spring Boot 3 and Spring Cloud	- Microservices with API gateway - Creating Microservices for account and loan
+#	
