@@ -23,4 +23,11 @@
 ### Ex 4:	Spring Data JPA with Spring Boot, Hibernate	- Spring Data JPA Exercises - Exercise 1: Quick Example
 ### Ex 5:	Spring Data JPA with Spring Boot, Hibernate	- Spring Data JPA Exercises - Exercise 4: Difference between JPA, Hibernate and Spring Data JPA
 #
-
+### Week-4 [Mandatory hands-on]
+### Ex 1:	Spring REST using Spring Boot 3	- spring-rest-handson - Create a Spring Web Project using Maven
+### Ex 2:	Spring REST using Spring Boot 3	- spring-rest-handson - Spring Core – Load Country from Spring Configuration XML
+### Ex 3:	Spring REST using Spring Boot 3	- spring-rest-handson - Hello World RESTful Web Service
+### Ex 4:	Spring REST using Spring Boot 3	- spring-rest-handson - REST Country Web Service
+### Ex 5:	Spring REST using Spring Boot 3	- spring-rest-handson -	REST - Get country based on country code
+### Ex 6:	Spring REST using Spring Boot 3 - JWT-handson - Create authentication service that returns JWT
+#
