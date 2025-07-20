@@ -34,3 +34,11 @@
 ### Week-5 [Mandatory hands-on]
 ### Ex 1:	Microservices with Spring Boot 3 and Spring Cloud	- Microservices with API gateway - Creating Microservices for account and loan
 #	
+### week-6 [Mandatory hands-on]
+### Ex 1: ReactJS-HOL	- myfirstreact
+### Ex 2: ReactJS-HOL -	studentapp
+### Ex 3:	ReactJS-HOL - scorecalculatorapp
+### Ex 4: ReactJS-HOL -	blogapp
+### Ex 5:	ReactJS-HOL -	cohorttracker
+#
+
